@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@keyframes triangle-img-rotate-dow {
+    0% { transform: rotate(0); }
+    100% { transform: rotate(90deg); }
+}
+
+@keyframes triangle-img-rotate-back {
+    0% { transform: rotate(90deg); }
+    100% { transform: rotate(0deg); }
+}

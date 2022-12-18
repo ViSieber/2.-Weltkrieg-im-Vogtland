@@ -1,0 +1,22 @@
+{
+  "name": "w2imvogtland",
+  "version": "1.0.0",
+  "description": "Eigenanteil zur Seminarfacharbeit",
+  "scripts": {
+    "start": "parcel build index.html --no-optimize",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "Seminarfach"
+  ],
+  "author": "Victor Sieber und Seminarfachgruppe",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ol": "^7.1.0",
+    "pos": "^0.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.15",
+    "parcel": "^2.7.0"
+  }
+}

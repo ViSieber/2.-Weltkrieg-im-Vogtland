@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<w2iv>
+	<pat location="Tanzschule Schaller-Schmeißer, Zeulenroda">
+		<past img="/data/images/tanzschule_schmeisser_past.png" year="1937" />
+		<today img="/data/images/tanzschule_schmeisser_today.png" year="2022" />
+	</pat>
+	<pat location="Schopperstraße, Zeulenroda">
+		<past img="/data/images/schopperstrasse_past.png" year="1938" />
+		<today img="/data/images/schopperstrasse_today.png" year="2022" />
+	</pat>
+	<pat location="Greizerstraße, Zeulenroda">
+		<past img="/data/images/greizerstrasse_past.png" year="1938" />
+		<today img="/data/images/greizerstrasse_today.png" year="2022" />
+	</pat>
+	<pat location="Markt, Zeulenroda">
+		<past img="/data/images/markt_past.png" year="1938" />
+		<today img="/data/images/markt_today.png" year="2022" />
+	</pat>
+</w2iv>

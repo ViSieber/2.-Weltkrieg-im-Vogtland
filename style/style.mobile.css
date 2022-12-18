@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 700px) {
+    .div-menu #title
+    {
+        height: 75px;
+        font-size: 13.5px;
+    }
+
+    .div-text-container
+    {
+        width: 95%;
+    }
+
+    .div-text-container h1
+    {
+        font-size: 27px;
+        word-wrap: break-word;
+    }
+}
